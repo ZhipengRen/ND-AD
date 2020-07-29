@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.29 1323
+# Update time : 2020.7.27 1538
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -5821,7 +5821,6 @@ DOMAIN-SUFFIX,promos.fling.com,REJECT
 DOMAIN-SUFFIX,promote.biz.weibo.cn,REJECT
 DOMAIN-SUFFIX,promote.caixin.com,REJECT
 DOMAIN-SUFFIX,promote.pair.com,REJECT
-DOMAIN-SUFFIX,promotion.aliyun.com,REJECT
 DOMAIN-SUFFIX,promotion.gomlab.com,REJECT
 DOMAIN-SUFFIX,promotions.iasbet.com,REJECT
 DOMAIN-SUFFIX,propellerads.com,REJECT
@@ -8582,7 +8581,6 @@ DOMAIN-SUFFIX,bugreportv2.qq.com,REJECT
 DOMAIN-SUFFIX,c.l.qq.com,REJECT
 DOMAIN-SUFFIX,c2.l.qq.com,REJECT
 DOMAIN-SUFFIX,cb.l.qq.com,REJECT
-DOMAIN-SUFFIX,cdn.ark.qq.com,REJECT
 DOMAIN-SUFFIX,cfg.imtt.qq.com,REJECT
 DOMAIN-SUFFIX,client.show.qq.com,REJECT
 DOMAIN-SUFFIX,cm.e.qq.com,REJECT
